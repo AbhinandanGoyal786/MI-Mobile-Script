@@ -1,0 +1,6 @@
+card==400000000000000
+name==DK
+month==10
+year==2259
+cvv==200
+password==D1

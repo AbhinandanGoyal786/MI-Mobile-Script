@@ -1,0 +1,6 @@
+{
+  "loginids" :"inputfiles/json/loginIds.json",
+  "driver_path" :"chromedriver.exe",
+  "card_details" : "inputfiles/json/cardDetails.json",
+  "qty": 2
+}
